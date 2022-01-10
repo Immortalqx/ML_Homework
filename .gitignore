@@ -1,0 +1,7 @@
+*.idea
+*__pycache__
+*.ipynb_checkpoints
+report_03_Fashion/src/ImageSet/*
+report_03_Fashion/src/data/*
+report_05_Jigsaw-Puzzle/data/*
+report_06_Sudoku/src/data/*
